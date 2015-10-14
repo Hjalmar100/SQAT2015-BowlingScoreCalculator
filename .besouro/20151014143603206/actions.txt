@@ -6,3 +6,15 @@ CompilationAction 1444822885592 TestBowlingScoreCalculator.java
 CompilationAction 1444822885593 TestBowlingScoreCalculator.java
 CompilationAction 1444822885593 TestBowlingScoreCalculator.java
 EditAction 1444822922579 TestBowlingScoreCalculator.java 264 1 0 0
+CompilationAction 1444822922841 TestBowlingScoreCalculator.java
+CompilationAction 1444822922841 TestBowlingScoreCalculator.java
+RefactoringAction 1444823068288 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.BowlingGame IMPORT
+RefactoringAction 1444823068288 TestBowlingScoreCalculator.java ADD import org.junit.Test/2 IMPORT
+RefactoringAction 1444823079306 TestBowlingScoreCalculator.java REMOVE import org.junit.Test/2 IMPORT
+CompilationAction 1444823318620 TestBowlingScoreCalculator.java
+CompilationAction 1444823318620 TestBowlingScoreCalculator.java
+CompilationAction 1444823318661 TestBowlingScoreCalculator.java
+CompilationAction 1444823318661 TestBowlingScoreCalculator.java
+UnitTestCaseAction 1444823323900 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444823323902 TestBowlingScoreCalculator FAIL
+EditAction 1444823489402 TestBowlingScoreCalculator.java 316 1 2 0
