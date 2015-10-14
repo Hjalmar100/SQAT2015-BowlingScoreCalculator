@@ -11,7 +11,9 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void test() {
 		BowlingGame bg = new BowlingGame ();
-			
+	
+		bg.BowlingGame("x");
+		
 		fail("Not yet implemented");
 	}
 
