@@ -20,10 +20,12 @@ public class TestBowlingScoreCalculator {
 	}
 	@Test
 	public void test2() {
+		for (int i = 0; i < 10; i++ ){
 		BowlingGame bg = new BowlingGame ();
 			int result= bg.playBowlingGame("f");
 		assertEquals(0,result);
 		//fail("Not yet implemented");
+		}
 	}
 	
 	@Test

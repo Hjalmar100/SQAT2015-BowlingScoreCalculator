@@ -70,3 +70,4 @@ UnitTestSessionAction 1444826744063 TestBowlingScoreCalculator.test10 FAIL
 RefactoringAction 1444827714735 TestBowlingScoreCalculator.java ADD int i FIELD
 RefactoringAction 1444827717265 TestBowlingScoreCalculator.java REMOVE i FIELD
 EditAction 1444827884362 TestBowlingScoreCalculator.java 2109 10 28 9
+EditAction 1444827972742 TestBowlingScoreCalculator.java 2148 10 26 8
