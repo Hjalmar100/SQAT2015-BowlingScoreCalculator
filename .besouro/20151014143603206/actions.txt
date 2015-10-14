@@ -39,3 +39,4 @@ RefactoringAction 1444825066299 TestBowlingScoreCalculator.java RENAME test1()/2
 RefactoringAction 1444825472791 TestBowlingScoreCalculator.java ADD void test2()/2 METHOD
 RefactoringAction 1444825479810 TestBowlingScoreCalculator.java RENAME test2()/2=>void test3() METHOD
 EditAction 1444825498050 TestBowlingScoreCalculator.java 748 3 9 3
+EditAction 1444825498147 JUnit_test.java 80 0 0 0
