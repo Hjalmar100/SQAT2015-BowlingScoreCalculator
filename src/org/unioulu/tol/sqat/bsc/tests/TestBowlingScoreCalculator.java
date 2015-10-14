@@ -30,10 +30,12 @@ public class TestBowlingScoreCalculator {
 	
 	@Test
 	public void test3() {
+		for (int i = 0; i < 10; i++ ){
 		BowlingGame bg = new BowlingGame ();
 			int result= bg.playBowlingGame("g");
 		assertEquals(0,result);
 		//fail("Not yet implemented");
+		}
 	}
 	
 	
