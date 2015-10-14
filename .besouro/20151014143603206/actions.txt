@@ -45,3 +45,14 @@ UnitTestSessionAction 1444825530486 TestBowlingScoreCalculator FAIL
 RefactoringAction 1444825727937 TestBowlingScoreCalculator.java ADD void test3()/2 METHOD
 RefactoringAction 1444825734957 TestBowlingScoreCalculator.java RENAME test3()/2=>void test4() METHOD
 EditAction 1444825753305 TestBowlingScoreCalculator.java 930 4 12 4
+UnitTestCaseAction 1444825775113 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444825775113 TestBowlingScoreCalculator FAIL
+RefactoringAction 1444825845261 TestBowlingScoreCalculator.java ADD void test4()/2 METHOD
+RefactoringAction 1444825852281 TestBowlingScoreCalculator.java RENAME test4()/2=>void test5() METHOD
+RefactoringAction 1444825964920 TestBowlingScoreCalculator.java ADD void test5()/2 METHOD
+RefactoringAction 1444825971444 TestBowlingScoreCalculator.java RENAME test5()/2=>void test6() METHOD
+RefactoringAction 1444826380150 TestBowlingScoreCalculator.java ADD void test6()/2 METHOD
+RefactoringAction 1444826387675 TestBowlingScoreCalculator.java RENAME test6()/2=>void test7() METHOD
+RefactoringAction 1444826519380 TestBowlingScoreCalculator.java ADD void test7()/2 METHOD
+RefactoringAction 1444826526908 TestBowlingScoreCalculator.java RENAME test7()/2=>void test8() METHOD
+EditAction 1444826556083 TestBowlingScoreCalculator.java 1684 8 24 8
