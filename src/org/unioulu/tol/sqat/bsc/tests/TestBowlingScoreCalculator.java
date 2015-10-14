@@ -72,28 +72,34 @@ public class TestBowlingScoreCalculator {
 		
 		@Test
 		public void test7() {
+			for (int i = 0; i < 10; i++ ){
 			BowlingGame bg = new BowlingGame ();
 				int result= bg.playBowlingGame("5");
 			assertEquals(5,result);
 			//fail("Not yet implemented");
+			}
 		
 	}
 		
 		@Test
 		public void test8() {
+			for (int i = 0; i < 10; i++ ){
 			BowlingGame bg = new BowlingGame ();
 				int result= bg.playBowlingGame("5");
 			assertEquals(5,result);
 			//fail("Not yet implemented");
+			}
 	
 		}
 		
 		@Test
 		public void test9() {
+			for (int i = 0; i < 10; i++ ){
 			BowlingGame bg = new BowlingGame ();
 				int result= bg.playBowlingGame("5");
 			assertEquals(5,result);
 			//fail("Not yet implemented");
+			}
 	
 		}
 		
