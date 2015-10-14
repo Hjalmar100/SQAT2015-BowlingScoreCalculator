@@ -32,5 +32,13 @@ public class TestBowlingScoreCalculator {
 	}
 	
 	
-
+	@Test
+	public void test4() {
+		BowlingGame bg = new BowlingGame ();
+			int result= bg.playBowlingGame("5");
+		assertEquals(0,result);
+		//fail("Not yet implemented");
+	}
+	
+	
 }
