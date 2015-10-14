@@ -75,3 +75,15 @@ EditAction 1444828018224 TestBowlingScoreCalculator.java 2187 10 24 7
 EditAction 1444828142327 TestBowlingScoreCalculator.java 2306 10 18 4
 EditAction 1444828272861 TestBowlingScoreCalculator.java 2429 10 12 1
 EditAction 1444828320951 TestBowlingScoreCalculator.java 2470 10 10 0
+RefactoringAction 1444829031071 TestBowlingScoreCalculator.java RENAME test1()=>void fram1() METHOD
+RefactoringAction 1444829032098 TestBowlingScoreCalculator.java RENAME fram1()=>void frame1() METHOD
+RefactoringAction 1444829044126 TestBowlingScoreCalculator.java RENAME test2()=>void frame() METHOD
+RefactoringAction 1444829050152 TestBowlingScoreCalculator.java RENAME test3()=>void frame3() METHOD
+RefactoringAction 1444829056177 TestBowlingScoreCalculator.java RENAME test4()=>void frame()/2 METHOD
+RefactoringAction 1444829061202 TestBowlingScoreCalculator.java RENAME test5()=>void frame5() METHOD
+RefactoringAction 1444829067727 TestBowlingScoreCalculator.java RENAME test6()=>void frame()/3 METHOD
+RefactoringAction 1444829076752 TestBowlingScoreCalculator.java RENAME test7()=>void frame7() METHOD
+RefactoringAction 1444829089778 TestBowlingScoreCalculator.java RENAME test8()=>void frame8() METHOD
+RefactoringAction 1444829099303 TestBowlingScoreCalculator.java RENAME test9()=>void frame9() METHOD
+RefactoringAction 1444829109330 TestBowlingScoreCalculator.java RENAME test10()=>void frame10() METHOD
+EditAction 1444829139184 TestBowlingScoreCalculator.java 2266 10 10 0
