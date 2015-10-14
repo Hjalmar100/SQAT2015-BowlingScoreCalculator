@@ -23,3 +23,11 @@ UnitTestSessionAction 1444823489712 TestBowlingScoreCalculator FAIL
 UnitTestCaseAction 1444823503861 TestBowlingScoreCalculator.java FAIL
 UnitTestSessionAction 1444823503862 TestBowlingScoreCalculator FAIL
 EditAction 1444823742848 TestBowlingScoreCalculator.java 342 1 3 0
+CompilationAction 1444823743100 TestBowlingScoreCalculator.java
+RefactoringAction 1444824019426 JUnit_test.java ADD JUnit_test.java CLASS
+FileOpenedAction 1444824019621 JUnit_test.java 75 0 0 0
+UnitTestCaseAction 1444824042030 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444824042031 TestBowlingScoreCalculator FAIL
+FileOpenedAction 1444824586253 BowlingGame.java 584 5 2 0
+RefactoringAction 1444824643295 BowlingGame.java ADD int playBowlingGame(String) METHOD
+EditAction 1444824663822 BowlingGame.java 687 6 3 0

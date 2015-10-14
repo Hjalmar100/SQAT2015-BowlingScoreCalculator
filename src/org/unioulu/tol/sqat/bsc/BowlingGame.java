@@ -27,4 +27,9 @@ public class BowlingGame {
 		//to be implemented
 		return false;
 	}
+
+	public int playBowlingGame(String string) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
