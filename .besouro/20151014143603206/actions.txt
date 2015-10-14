@@ -72,3 +72,4 @@ RefactoringAction 1444827717265 TestBowlingScoreCalculator.java REMOVE i FIELD
 EditAction 1444827884362 TestBowlingScoreCalculator.java 2109 10 28 9
 EditAction 1444827972742 TestBowlingScoreCalculator.java 2148 10 26 8
 EditAction 1444828018224 TestBowlingScoreCalculator.java 2187 10 24 7
+EditAction 1444828142327 TestBowlingScoreCalculator.java 2306 10 18 4
