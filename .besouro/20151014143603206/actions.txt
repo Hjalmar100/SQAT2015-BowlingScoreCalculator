@@ -87,3 +87,11 @@ RefactoringAction 1444829089778 TestBowlingScoreCalculator.java RENAME test8()=>
 RefactoringAction 1444829099303 TestBowlingScoreCalculator.java RENAME test9()=>void frame9() METHOD
 RefactoringAction 1444829109330 TestBowlingScoreCalculator.java RENAME test10()=>void frame10() METHOD
 EditAction 1444829139184 TestBowlingScoreCalculator.java 2266 10 10 0
+CompilationAction 1444829139459 TestBowlingScoreCalculator.java
+RefactoringAction 1444829147515 TestBowlingScoreCalculator.java RENAME frame()/3=>void frame2() METHOD
+CompilationAction 1444829153809 TestBowlingScoreCalculator.java
+CompilationAction 1444829153975 TestBowlingScoreCalculator.java
+RefactoringAction 1444829169065 TestBowlingScoreCalculator.java RENAME frame()/2=>void frame6() METHOD
+RefactoringAction 1444829878501 TestBowlingScoreCalculator.java ADD void testStrikeEveryFrame() METHOD
+RefactoringAction 1444830057593 TestBowlingScoreCalculator.java REMOVE testStrikeEveryFrame() METHOD
+CompilationAction 1444830063297 TestBowlingScoreCalculator.java
