@@ -2,3 +2,7 @@ FileOpenedAction 1444822563518 TestBowlingScoreCalculator.java 223 1 1 0
 FileOpenedAction 1444822724542 Test.java 80 0 0 0
 FileOpenedAction 1444822726266 Cell.java 201 1 0 0
 EditAction 1444822885191 TestBowlingScoreCalculator.java 259 1 0 0
+CompilationAction 1444822885592 TestBowlingScoreCalculator.java
+CompilationAction 1444822885593 TestBowlingScoreCalculator.java
+CompilationAction 1444822885593 TestBowlingScoreCalculator.java
+EditAction 1444822922579 TestBowlingScoreCalculator.java 264 1 0 0

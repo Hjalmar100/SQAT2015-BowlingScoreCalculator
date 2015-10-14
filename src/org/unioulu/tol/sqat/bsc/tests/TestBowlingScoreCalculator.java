@@ -8,7 +8,8 @@ public class TestBowlingScoreCalculator {
 
 	@Test
 	public void test() {
-		BowlingGame bg = new BowlingGame
+		BowlingGame bg = new BowlingGame;
+		
 		fail("Not yet implemented");
 	}
 
