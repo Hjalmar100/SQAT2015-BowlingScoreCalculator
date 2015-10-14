@@ -31,3 +31,11 @@ UnitTestSessionAction 1444824042031 TestBowlingScoreCalculator FAIL
 FileOpenedAction 1444824586253 BowlingGame.java 584 5 2 0
 RefactoringAction 1444824643295 BowlingGame.java ADD int playBowlingGame(String) METHOD
 EditAction 1444824663822 BowlingGame.java 687 6 3 0
+CompilationAction 1444824663917 TestBowlingScoreCalculator.java
+RefactoringAction 1444824740394 BowlingGame.java REMOVE frames FIELD
+RefactoringAction 1444825014696 TestBowlingScoreCalculator.java RENAME test()=>void test1() METHOD
+RefactoringAction 1444825062785 TestBowlingScoreCalculator.java ADD void test1()/2 METHOD
+RefactoringAction 1444825066299 TestBowlingScoreCalculator.java RENAME test1()/2=>void test2() METHOD
+RefactoringAction 1444825472791 TestBowlingScoreCalculator.java ADD void test2()/2 METHOD
+RefactoringAction 1444825479810 TestBowlingScoreCalculator.java RENAME test2()/2=>void test3() METHOD
+EditAction 1444825498050 TestBowlingScoreCalculator.java 748 3 9 3

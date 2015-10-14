@@ -9,12 +9,28 @@ import org.unioulu.tol.sqat.bsc.BowlingGame;
 public class TestBowlingScoreCalculator {
 
 	@Test
-	public void test() {
+	public void test1() {
 		BowlingGame bg = new BowlingGame ();
-	
-		bg.BowlingGame("x");
-		
-		fail("Not yet implemented");
+			int result= bg.playBowlingGame("x");
+		assertEquals(10,result);
+		//fail("Not yet implemented");
 	}
+	@Test
+	public void test2() {
+		BowlingGame bg = new BowlingGame ();
+			int result= bg.playBowlingGame("f");
+		assertEquals(0,result);
+		//fail("Not yet implemented");
+	}
+	
+	@Test
+	public void test3() {
+		BowlingGame bg = new BowlingGame ();
+			int result= bg.playBowlingGame("g");
+		assertEquals(0,result);
+		//fail("Not yet implemented");
+	}
+	
+	
 
 }
